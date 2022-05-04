@@ -1,0 +1,9 @@
+{
+	"ip":"ayush11231.aternos.me",
+	"port": 16364,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 1123",
+	"login-cmd":"/login 1123"
+}
